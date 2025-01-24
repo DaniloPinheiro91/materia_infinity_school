@@ -1,0 +1,7 @@
+palavra1 = input('Informe a primeira idade para a comparação: ')
+palavra2 = input('Informe a segunda idade para a comparação: ')
+
+if palavra1 in palavra2:
+    print('As duas palavras são iguais ')
+else:
+    print('As palavras são diferentes')
