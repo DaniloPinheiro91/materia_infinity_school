@@ -12,4 +12,4 @@ print("\nResumo da compra:")
 for produto, preco in produtos.items():
     print(f"{produto}: R$ {preco:.2f}")
 
-print(f"\nValor total da compra: R$ {valor_total:.2f}")# Escreva o seu código aqui :-)
+print(f"\nValor total da compra: R$ {valor_total:.2f}")
